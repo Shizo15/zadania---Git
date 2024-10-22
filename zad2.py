@@ -1,4 +1,5 @@
 #zad2
+
 def reactor_efficiency(voltage, current, theoretical_max_power):
 
     generated_power = voltage * current
